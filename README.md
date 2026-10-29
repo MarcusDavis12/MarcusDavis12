@@ -54,7 +54,7 @@ Progress for progress’s sake is often feared in software engineering. I push b
 
 <td width="34%" align="center" valign="middle">
 
-<img src="assets/secondary_greyscale_transparent"
+<img src="assets/secondary_greyscale_transparent.png"
      alt="A monolith"
      style= "
      width=100% 
