@@ -13,7 +13,7 @@ Progress for progress’s sake is often feared in software engineering. I push b
 
 ---
 
-<sub align="center">LEARN / EXPLORE / BUILD</sub>
+<sub style="text-align: center;" >LEARN / EXPLORE / BUILD</sub>
 
 <table>
 <tr>
@@ -25,7 +25,7 @@ Progress for progress’s sake is often feared in software engineering. I push b
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,expres,react&perline=3&theme=dark"
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,express,react&perline=3&theme=dark"
        alt="HTML, CSS, Bootstrap, Node.js, Express.js, React"/>
 </p>
 
@@ -71,7 +71,6 @@ Progress for progress’s sake is often feared in software engineering. I push b
 **CURRENT PROJECTS**
 
 ### Marian Map
-#### Flagship Project
 + Interactive web application to explore Marian Apparitions
 
 ### Saints Research Pipeline
@@ -82,14 +81,15 @@ Progress for progress’s sake is often feared in software engineering. I push b
 
 ### CURRENTLY LEARNING
 + React.js
++ AWS
++ Docker
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<sub style="text-align: center;" >ALWAYS EXPLORING. ALWAYS BUILDING.</sub>
 
-  <sub>ALWAYS EXPLORING. ALWAYS BUILDING.</sub>
+---
 
-</div>
-
+🏴‍☠️:GIZWKZ3BKNSWQVDPMNZGCTI=
