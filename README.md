@@ -13,18 +13,7 @@ Progress for progress’s sake is often feared in software engineering. I push b
 
 ---
 
-
-<p align="right"><sub> 
--William Faulkner’s speech at the Nobel Banquet at the City Hall in Stockholm, December 10, 1950
-</sub></p>
-
-<br>
-
-<div align="center" padding-top: 20px;>
-
-  <sub>BUILD &nbsp; / &nbsp; LEARN &nbsp; / &nbsp; EXPLORE</sub>
-
-</div>
+<sub align="center">LEARN / EXPLORE / BUILD</sub>
 
 <table>
 <tr>
@@ -33,21 +22,20 @@ Progress for progress’s sake is often feared in software engineering. I push b
 <h3 align="center">01 / TECHNOLOGIES</h3>
 <p align="center"><sub>TOOLS THAT POWER THE JOURNEY</sub></p>
 
-**FRONTEND**
+###Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=3"
-       alt="HTML, CSS, JavaScript, React" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,expres,react&perline=3&theme=dark"
+       alt="HTML, CSS, Bootstrap, Node.js, Express.js, React"/>
 </p>
-
-**BACKEND**
+###Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python"
-       alt="Python" />
+  <img src="https://skillicons.dev/icons?i=js,py,&perline=3&theme=dark"
+       alt="JavaScript, Python"/>
 </p>
 
-**DATABASES**
+###DATABASES
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3"
@@ -77,38 +65,28 @@ Progress for progress’s sake is often feared in software engineering. I push b
 
 <td width="33%" valign="top">
 
-<h3 align="center">02 / MISSION LOG</h3>
+<h3 align="center">02 / Focuses</h3>
 <p align="center"><sub>IDEAS INTO REALITY</sub></p>
 
 **CURRENT PROJECTS**
 
-**LiturgyStack**
+**Project 1**
 <ul>
-<li>APIs for Catholic tech devlopment.</li>
+<li>About Project 1</li>
 </ul>
 
-**Independent Development**
+**Project 2**
 <ul>
-<li>Experimenting with software, system architecture, and practical applications.</li>
+<li>About Project 2</li>
 </ul>
 
 ---
 
 **CURRENTLY LEARNING**
 <ul padding-bottom: 20px;>
-<li> Computer science fundamentals</li>
-<li> Linux and operating systems</li>
-<li> Database design and SQL</li>
-<li> Full-stack application development</li>
-</ul>
-
----
-
-**OBJECTIVE**
-<ul>
-<li>Understand the system.</li>
-<li>Improve the design.</li>
-<li>Build something meaningful.</li>
+<li> Add new thing here</li>
+<li> here/li>
+<li> and hear</li>
 </ul>
 
 </td>
@@ -120,15 +98,4 @@ Progress for progress’s sake is often feared in software engineering. I push b
   <sub>ALWAYS EXPLORING. ALWAYS BUILDING.</sub>
 
 </div>
-<br>
-<div>
-  <h2>print("Hello, Reader!")</h2>
-  <p></p>
-</div>
 
-<div>
-  Creds
-</div>
-
-Resources and reference guides that I find handy:
-https://developer.mozilla.org/en-US/
