@@ -22,27 +22,28 @@ Progress for progress’s sake is often feared in software engineering. I push b
 <h3 align="center">01 / TECHNOLOGIES</h3>
 <p align="center"><sub>TOOLS THAT POWER THE JOURNEY</sub></p>
 
-###Frameworks & Libraries
+### Frameworks & Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,expres,react&perline=3&theme=dark"
        alt="HTML, CSS, Bootstrap, Node.js, Express.js, React"/>
 </p>
-###Programming Languages
+
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,py,&perline=3&theme=dark"
        alt="JavaScript, Python"/>
 </p>
 
-###DATABASES
+### DATABASES
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3"
        alt="PostgreSQL, MySQL, MongoDB" />
 </p>
 
-**DEVELOPER TOOLS**
+### DEVELOPER TOOLS
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=3"
@@ -69,24 +70,18 @@ Progress for progress’s sake is often feared in software engineering. I push b
 
 **CURRENT PROJECTS**
 
-**Project 1**
-<ul>
-<li>About Project 1</li>
-</ul>
+### Marian Map
+#### Flagship Project
++ Interactive web application to explore Marian Apparitions
 
-**Project 2**
-<ul>
-<li>About Project 2</li>
-</ul>
+### Saints Research Pipeline
++ Well-tested backend system with reproducible examples
+
 
 ---
 
-**CURRENTLY LEARNING**
-<ul padding-bottom: 20px;>
-<li> Add new thing here</li>
-<li> here/li>
-<li> and hear</li>
-</ul>
+### CURRENTLY LEARNING
++ React.js
 
 </td>
 </tr>
