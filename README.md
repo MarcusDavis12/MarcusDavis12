@@ -53,12 +53,11 @@ Progress for progress’s sake is often feared in software engineering. I push b
 
 <td width="34%" align="center" valign="middle">
 
-<img src="assets/monolith.png"
+<img src="assets/secondary_greyscale_transparent"
      alt="A monolith"
      style= "
      width=100% 
-     -webkit-mask-image: radial-gradient(circle, black 50%, transparent 100%);
-     mask-image: radial-gradient(circle, black 50%, transparent 100%);"
+     "
   />
 
 </td>
