@@ -9,7 +9,7 @@ My passion and direction are best expressed through my all-time favorite film, [
 Progress for progress’s sake is often feared in software engineering. I push back against that fear with the words of one of Mississippi’s finest:
 
 > “I decline to accept the end of man… I believe that man will not merely endure: he will prevail. He is immortal, not because he alone among creatures has an inexhaustible voice, but because he has a soul, a spirit capable of compassion and sacrifice and endurance.”  
-> — William Faulkner, Nobel Banquet Speech, Stockholm, December 10, 1950
+>   — William Faulkner, Nobel Banquet Speech, Stockholm, December 10, 1950
 
 ---
 
@@ -60,7 +60,7 @@ Progress for progress’s sake is often feared in software engineering. I push b
      width=100% 
      "
   />
-
+<!-- The goal is for this to be 3d -->
 </td>
 
 <td width="33%" valign="top">
@@ -91,5 +91,5 @@ Progress for progress’s sake is often feared in software engineering. I push b
 <sub style="text-align: center;" >ALWAYS EXPLORING. ALWAYS BUILDING.</sub>
 
 ---
-
+<!--Add more Contex-->
 🏴‍☠️:GIZWKZ3BKNSWQVDPMNZGCTI=
