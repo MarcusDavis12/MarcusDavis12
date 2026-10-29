@@ -1,10 +1,19 @@
-#Marcus Davis - Forward Deployed Engineer in Training
+# Marcus Davis
+## Aspiring Software Engineer · Full-Stack Development · Python
 
-<br>
+> Hello and thank you for visiting my GitHub.  
+> I’m a Mississippi-made, Nashville-based developer focused on building practical software, understanding complex systems, and turning ambitious ideas into working applications.
 
-<p style="text-align: center;">
-  "I decline to accept the end of man... I believe that man will not merely endure: he will prevail. He is immortal, not because he alone among creatures has an inexhaustible voice, but because he has a soul, a spirit capable of compassion and sacrifice and endurance."
-</p>
+My passion and direction are best expressed through my all-time favorite film, [*2001: A Space Odyssey*](https://www.imdb.com/title/tt0062622/ "Check it out"). Just as the monolith advances humanity, I aim to contribute to meaningful progress.  
+
+Progress for progress’s sake is often feared in software engineering. I push back against that fear with the words of one of Mississippi’s finest:
+
+> “I decline to accept the end of man… I believe that man will not merely endure: he will prevail. He is immortal, not because he alone among creatures has an inexhaustible voice, but because he has a soul, a spirit capable of compassion and sacrifice and endurance.”  
+> — William Faulkner, Nobel Banquet Speech, Stockholm, December 10, 1950
+
+---
+
+
 <p align="right"><sub> 
 -William Faulkner’s speech at the Nobel Banquet at the City Hall in Stockholm, December 10, 1950
 </sub></p>
@@ -114,7 +123,7 @@
 <br>
 <div>
   <h2>print("Hello, Reader!")</h2>
-  <p>My name is Marcus and I want to thank you for viewing my Github. I am currently learning all that I can to apply skill and action to big ideas!</p>
+  <p></p>
 </div>
 
 <div>
