@@ -1,5 +1,5 @@
 # Marcus Davis
-## Aspiring Software Engineer · Full-Stack Development · Python
+## Software Engineer · Full-Stack Development · Python
 
 > Hello and thank you for visiting my GitHub.  
 > I’m a Mississippi-made, Nashville-based developer focused on building practical software, understanding complex systems, and turning ambitious ideas into working applications.
