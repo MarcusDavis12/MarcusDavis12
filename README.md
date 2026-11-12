@@ -54,13 +54,94 @@ Progress for progress’s sake is often feared in software engineering. I push b
 
 <td width="34%" align="center" valign="middle">
 
-<img src="assets/secondary_greyscale_transparent.png"
-     alt="A monolith"
-     style= "
-     width=100% 
-     "
-  />
-<!-- The goal is for this to be 3d -->
+```stl
+solid monolith_1_4_9
+  facet normal 0 0 1
+    outer loop
+      vertex -2 -4.5 0.5
+      vertex 2 -4.5 0.5
+      vertex 2 4.5 0.5
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex -2 -4.5 0.5
+      vertex 2 4.5 0.5
+      vertex -2 4.5 0.5
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 2 -4.5 -0.5
+      vertex -2 -4.5 -0.5
+      vertex -2 4.5 -0.5
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 2 -4.5 -0.5
+      vertex -2 4.5 -0.5
+      vertex 2 4.5 -0.5
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 2 -4.5 0.5
+      vertex 2 -4.5 -0.5
+      vertex 2 4.5 -0.5
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 2 -4.5 0.5
+      vertex 2 4.5 -0.5
+      vertex 2 4.5 0.5
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -2 -4.5 -0.5
+      vertex -2 -4.5 0.5
+      vertex -2 4.5 0.5
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -2 -4.5 -0.5
+      vertex -2 4.5 0.5
+      vertex -2 4.5 -0.5
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex -2 4.5 0.5
+      vertex 2 4.5 0.5
+      vertex 2 4.5 -0.5
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex -2 4.5 0.5
+      vertex 2 4.5 -0.5
+      vertex -2 4.5 -0.5
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -2 -4.5 -0.5
+      vertex 2 -4.5 -0.5
+      vertex 2 -4.5 0.5
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -2 -4.5 -0.5
+      vertex 2 -4.5 0.5
+      vertex -2 -4.5 0.5
+    endloop
+  endfacet
+endsolid monolith_1_4_9
+```
 </td>
 
 <td width="33%" valign="top">
