@@ -93,3 +93,29 @@ Progress for progress’s sake is often feared in software engineering. I push b
 ---
 <!--Add more Contex-->
 🏴‍☠️:GIZWKZ3BKNSWQVDPMNZGCTI=
+
+---
+```mermaid
+flowchart TD
+    A[AI Technologies] --> B[AI Engineering]
+    A --> C[AI Architecture]
+    A --> D[Foward Deployed Engineering]
+
+    B --> E[OpenAI SDK
+    OpenRouter
+    LangChain
+    Claude Code
+    Claude Agent SDK]
+
+    C --> F[Langfuse
+    Odrant/VectorDB
+    MCP
+    LangGraph
+    Supabase]
+  
+    D --> G[Serverless
+    AWS agentcore gateway
+    AWS agentcore policy
+    AWS agentcore memory
+    AWS agentcore runtime]
+```
