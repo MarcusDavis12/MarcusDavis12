@@ -88,8 +88,7 @@ Progress for progress’s sake is often feared in software engineering. I push b
 </tr>
 </table>
 
-<sub style="text-align: center;" >ALWAYS EXPLORING. ALWAYS BUILDING.</sub>
+<sub >ALWAYS EXPLORING. ALWAYS BUILDING.</sub>
 
 ---
-<!--Add more Contex-->
-🏴‍☠️:GIZWKZ3BKNSWQVDPMNZGCTI=
+
